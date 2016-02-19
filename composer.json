@@ -1,5 +1,5 @@
 {
-  "name": "Lunatic666/monolog-bunyan-formatter",
+  "name": "lunatic/monolog-bunyan-formatter",
   "description": "Bunyan Formatter for Monolog",
   "license": "MIT",
   "authors": [
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Lunatic666\\Monolog\\": "src/"
+      "Lunatic\\Monolog\\": "src/"
     }
   }
 }

@@ -4,7 +4,7 @@ require_once 'vendor/autoload.php';
 
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
-use Lunatic666\Monolog\Formatter\BunyanFormatter;
+use Lunatic\Monolog\Formatter\BunyanFormatter;
 
 $log = new Logger('demo');
 $handler = new StreamHandler('php://stdout', Logger::INFO);

@@ -6,7 +6,7 @@
  * @author Wolfram Huesken <woh@m18.io>
  */
 
-namespace Lunatic666\Monolog\Formatter;
+namespace Lunatic\Monolog\Formatter;
 
 use Monolog\Logger;
 use Monolog\Formatter\JsonFormatter;
