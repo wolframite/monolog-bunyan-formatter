@@ -1,4 +1,4 @@
-# Bunyan Formatter for Monolog
+# Bunyan Formatter for Monolog [![Build Status](https://travis-ci.org/Lunatic666/monolog-bunyan-formatter.svg?branch=master)](https://travis-ci.org/Lunatic666/monolog-bunyan-formatter)
 
 ## About
 
