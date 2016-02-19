@@ -12,6 +12,8 @@ which already started with Monolog
 
 ## Installation
 
+`composer require lunatic/monolog-bunyan-formatter`
+
 ## Usage
 
 ```php
@@ -26,5 +28,3 @@ $log->pushHandler($handler);
 
 $log->info('Hello, Mr. Bunyan', array('link' => 'https://en.wikipedia.org/wiki/Paul_Bunyan'));
 ```
-
-## 
